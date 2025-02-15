@@ -1,0 +1,10 @@
+#This is the config file for the GitHub Pages site.
+#Not sure if there's a complete reference somewhere or not
+#https://docs.github.com/en/pages/quickstart
+
+remote_theme: jekyll/minima #https://github.com/jekyll/minima , https://github.com/jekyll/minima/blob/master/_config.yml
+
+minima:
+  skin: auto
+  date_format: "%Y-%m-%d"
+
