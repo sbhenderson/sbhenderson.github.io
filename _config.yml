@@ -31,7 +31,9 @@ remote_theme: jekyll/minima #https://github.com/jekyll/minima , https://github.c
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-
+header_pages:
+  - about.md
+  - links.md
 minima:
   skin: auto
   date_format: "%Y-%m-%d"
