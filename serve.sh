@@ -1,3 +1,3 @@
 #!/bin/bash
 
-exec jekyll serve --port 3000
+jekyll serve --port 3000

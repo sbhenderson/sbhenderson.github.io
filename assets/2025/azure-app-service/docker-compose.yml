@@ -1,0 +1,31 @@
+services:
+  traefik:
+    image: customTraefik:lateset
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+  rabbitmq:
+    image: rabbitmq:management    
+    hostname: rabbitmq1
+    restart: unless-stopped
+    volumes:
+      - rabbitmq:/var/lib/rabbitmq
+  database:
+    image: database-engine:latest
+    restart: unless-stopped
+    volumes:
+      - databasedata:/var/lib/yourenginedata
+  application:
+    image: your-application:latest
+    restart: unless-stopped
+    depends_on:
+      - rabbitmq
+      - database
+    volumes:
+      - data:/data
+  
+volumes:
+  rabbitmq: #but I'm not persisting in this setup
+  databasedata:
+  data:
