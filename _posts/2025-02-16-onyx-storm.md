@@ -36,3 +36,7 @@ pushover.send_message(message= message, title='Onyx Storm Available')
 Anyway, at the end of it, we were able to pick up two books (one for the wife, one for the sister-in-law). From the Target employee who put it back on the shelf, it seems like someone had returned four of these. Speculation was that they didn't sell quickly enough on second-hand markets. Scaplers...
 
 ![Two Onyx Storm books](/assets/2025/target-checker/success.jpeg)
+
+### Reference
+
+[Here](https://github.com/sbhenderson/sbhenderson.github.io/tree/main/assets/2025/target-checker) is the folder containing the "solution".

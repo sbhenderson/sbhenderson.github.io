@@ -137,3 +137,5 @@ Simple solution: use the managed offerings for persisting data that are availabl
 - [Discussion on /home storage internals](https://learn.microsoft.com/en-us/azure/app-service/operating-system-functionality#types-of-file-access-granted-to-an-app)
 - [Databases via Azure Files is not supported](https://learn.microsoft.com/en-us/azure/app-service/configure-connect-to-azure-storage?tabs=basic%2Cportal&pivots=container-linux#troubleshooting)
 - [Similar in theory situation where the managed offering doesn't support what you want so the end result is to abandon that in favor of the more complete one](https://xaviergeerinck.com/2022/10/18/deploying-timescaledb-on-azure-to-store-your-iot-data/)
+
+[Here](https://github.com/sbhenderson/sbhenderson.github.io/tree/main/assets/2025/azure-app-service) is the link for the containing folder.

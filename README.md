@@ -1,6 +1,6 @@
 # sbhenderson.github.io / scott.henderson.engineering
 
-Personal GitHub page
+Personal GitHub page using Jekyll.
 
 ## Issues
 

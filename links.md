@@ -16,6 +16,7 @@ These are links to other blogs, channels, software, or sites that I have found i
 
 - [Jeff Geerling](https://www.youtube.com/@JeffGeerling) - has unique videos in the tech space and also has a [website](https://www.jeffgeerling.com/).
 - [Steve Mould](https://www.youtube.com/channel/UCEIwxahdLz7bap-VDs9h35A) - fascinating videos examining various natural phenomena.
+- [Practical Engineering (Grady Hillhouse)](https://www.youtube.com/@PracticalEngineeringChannel) - great videos focusing on the very practical world of infrastructure around us. I really enjoyed details about projects that you may not have heard of otherwise including the New Harbor Bridge Project in Corpus Christi and the Washington Bridge in Rhode Island.
 
 ## Software
 
@@ -25,6 +26,7 @@ These are links to other blogs, channels, software, or sites that I have found i
 - [pgloader](https://github.com/dimitri/pgloader) - great way to transfer data and handle data type changes to PostgreSQL.
 - [draw.io](https://www.drawio.com/) - nice alternative to Visio for diagramming needs.
 - [Penpot](https://penpot.app/) - handy design and mockup tool comparable to Figma and similar
+- [SourceTree](https://www.sourcetreeapp.com) - regardless of your opinion of Git UIs, sometimes, it's easier to visualize a graph than read `git log`. For me, you still need a grasp of the underlying commands, but it tremendously helps with getting the right arguments 99% of the time.
 
 ## Miscellaneous
 
