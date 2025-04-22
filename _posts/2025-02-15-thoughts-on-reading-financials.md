@@ -36,3 +36,5 @@ Reading the annual reports and paying attention to the cash flow position, balan
 If I had read the reports and understood the precarious nature, maybe I'd raise more concerns or been able to exit my employee stock positions in a better way. Or maybe just avoid having to be a situation where I am concerned about this at all. But ultimately, the vibes were only part of the story. Vibes alone told me how my group and my slightly larger group were doing - vibes give you no help when there is massive contagion coming from another part of the business.
 
 In other words, vibes are but one metric in how you should be evaluating the state of things, but for public companies, seeing the mandatory reports can tell you things far beyond the vibes.
+
+Next one in the series is [here]({% link _posts/2025-04-22-wood-sidara.md %}).
