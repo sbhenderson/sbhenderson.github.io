@@ -1,10 +1,9 @@
 ---
 layout: post
 title:  "Wood & Sidara"
-date:   "2025-04-22 00:00:00"
 categories: thoughts
 ---
-So [last time]({% link _posts/2025-02-15-thoughts-on-reading-financials.md %}), I was thinking about how important it would have been to read up on financials. Not that it should necessarily affect what you decide to do as an employee, but as an employee-investor, maybe it should.
+So [last time]({% post_url 2025-02-15-thoughts-on-reading-financials %}), I was thinking about how important it would have been to read up on financials. Not that it should necessarily affect what you decide to do as an employee, but as an employee-investor, maybe it should.
 
 As it pertains to my employer, two major things have happened since then. First the bad news and then the maybe good news.
 

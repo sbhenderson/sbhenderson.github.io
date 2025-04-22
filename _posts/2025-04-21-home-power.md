@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Home Power Optimization Part 1"
-date:   "2025-04-21 00:00:00"
 categories: home
 ---
 ## Background

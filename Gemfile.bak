@@ -1,0 +1,7 @@
+# frozen_string_literal: true
+
+source "https://rubygems.org"
+git_source(:github) { "https://github.com/sbhenderson/sbhenderson.github.io" }
+gem 'jekyll-tagging'
+gem 'jekyll-feed'
+# gem "rails"

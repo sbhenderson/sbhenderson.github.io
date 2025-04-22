@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Adventure in Azure App Service"
-date:   "2025-02-19"
 categories: azure
 ---
 

@@ -20,6 +20,7 @@
 
 title: sbhenderson blog
 email: scott@henderson.engineering
+author: sbhenderson
 description: >-
   blog of random topics I find interesting
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -30,6 +31,7 @@ github_username:  sbhenderson
 remote_theme: jekyll/minima #https://github.com/jekyll/minima , https://github.com/jekyll/minima/blob/master/_config.yml
 plugins:
   - jekyll-feed
+  # - jekyll-tagging
   - jekyll-remote-theme
 header_pages:
   - about.md
@@ -38,6 +40,8 @@ minima:
   skin: auto
   date_format: "%Y-%m-%d"
 
+tag_page_layout: tag_page
+tag_page_dir: tag
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

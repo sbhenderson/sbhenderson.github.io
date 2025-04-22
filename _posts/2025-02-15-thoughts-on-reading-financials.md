@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Thoughts on Reading Company Financials"
-date:   "2025-02-15 03:56:00"
 categories: thoughts
 ---
 
@@ -37,4 +36,4 @@ If I had read the reports and understood the precarious nature, maybe I'd raise 
 
 In other words, vibes are but one metric in how you should be evaluating the state of things, but for public companies, seeing the mandatory reports can tell you things far beyond the vibes.
 
-Next one in the series is [here]({% link _posts/2025-04-22-wood-sidara.md %}).
+Next one in the series is [here]({% post_url 2025-04-22-wood-sidara %}).
