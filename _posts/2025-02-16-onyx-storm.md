@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Onyx Storm Target Redsky Checker"
-categories: python
+tags: python books
 ---
 
 The background here was that my wife really wanted the [*Onyx Storm* by Rebecca Yarros Target exclusive super duper collector's edition](https://www.target.com/p/onyx-storm-target-exclusive-edition-by-rebecca-yarros-hardcover/-/A-93038252), but because she didn't think it'd be so popular or as cool as it was, didn't preorder or purchase it as soon as it came out. Taget's website is actually really good for knowing when things are in stock, but at the store, inventory management is probably next to impossible to correctly deal with. We went to multiple Target stores in the area that had the book "in stock" but found upon arrival that it was nowhere to be found. Maybe someone had it in their cart, maybe it was behind the register, returns, etc.

@@ -21,8 +21,7 @@
 title: sbhenderson blog
 email: scott@henderson.engineering
 author: sbhenderson
-description: >-
-  blog of random topics I find interesting
+description: blog of random topics I find interesting
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  sbhenderson
@@ -31,7 +30,7 @@ github_username:  sbhenderson
 remote_theme: jekyll/minima #https://github.com/jekyll/minima , https://github.com/jekyll/minima/blob/master/_config.yml
 plugins:
   - jekyll-feed
-  # - jekyll-tagging
+  - jekyll/tagging
   - jekyll-remote-theme
 header_pages:
   - about.md

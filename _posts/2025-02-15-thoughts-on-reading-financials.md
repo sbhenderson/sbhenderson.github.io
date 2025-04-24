@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Thoughts on Reading Company Financials"
-categories: thoughts
+tags: wood corporate
 ---
 
 I started my career at a subsidiary company inside a medium sized multinational engineering services firm, Wood Group (formally, John Wood Group - now, Wood). While working at a small company with ~100 employees globally, the vibes often told you everything you need to know. Stressed because of technically difficult project? All is good. Stressed because of lack of work? Not so good. Obviously, there are many more scenarios, but the vibes told me when times were tough and when times were good.

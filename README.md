@@ -14,4 +14,6 @@ I want to disable the subscribe button in the footer found [here](https://github
 
 ## Search Functionality
 
-I took this entirely from [this site](https://learn.cloudcannon.com/jekyll/jekyll-search-using-lunr-js/)/[this GitHub repo](https://github.com/CloudCannon/bakery-store-jekyll-template/tree/lunrjs).
+I was originally using [this site](https://learn.cloudcannon.com/jekyll/jekyll-search-using-lunr-js/)/[this GitHub repo](https://github.com/CloudCannon/bakery-store-jekyll-template/tree/lunrjs).
+
+But [site](https://jekyllcodex.org/without-plugin/search-lunr/#) was far superior.

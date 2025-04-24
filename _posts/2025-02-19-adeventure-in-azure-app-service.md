@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Adventure in Azure App Service"
-categories: azure
+tags: azure architecture
 ---
 
 ## Background

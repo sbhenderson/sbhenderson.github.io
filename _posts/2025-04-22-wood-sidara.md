@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  "Wood & Sidara"
-categories: thoughts
+tags: wood corporate
 ---
-So [last time]({% post_url 2025-02-15-thoughts-on-reading-financials %}), I was thinking about how important it would have been to read up on financials. Not that it should necessarily affect what you decide to do as an employee, but as an employee-investor, maybe it should.
+So [last time]({% post_url 2025-02-15-thoughts-on-reading-financials %}), I was thinking about how important it would have been to read up on financials. Not that it should necessarily affect what you decide to do as an employee, but as an employee-investor, maybe it should. I write this article not to lambast or criticize Wood; indeed, I really cannot emphasize enough the great times I've had with some of my colleagues and the culture we had. But gross mismanagement, even at levels that I was not never privy to nor had any reason to concern myself with, is the root cause of the woes Wood faces.
 
-As it pertains to my employer, two major things have happened since then. First the bad news and then the maybe good news.
+Two major things have happened since then. First the bad news and then the maybe good news.
+
+## The Review
 
 On March 31st, Wood announced that the Deloitte review found [material weaknesses](https://tools.eurolandir.com/tools/Pressreleases/GetPressRelease/?ID=7371359&lang=en-GB&companycode=uk-wg&v=). There's a lot of stuff to sift through in the announcement, but the critical aspect is the fact that this entire division of the company was playing fast and loose with finances. While the word "fraud" is not used, to me, this is what fraud is. [Merriam-Webster 1b](https://www.merriam-webster.com/dictionary/fraud):
 > an act of deceiving or misrepresenting
@@ -22,6 +24,8 @@ Key paragraph from the statement:
 Something has triggered Wood to need to reissue historical fiscal year reports as well as delay issuing FY24. That might not be so crazy, but because the delay in releasing results after after April 30th, shares have to cease trading on the LSE. What is even more surprising, however, is the fact that Wood had to secure waivers from its debt holders for possible violations of the financial covenants of its loans. Again, for those acquainted with commercial debt, this may be obvious, but I did not realize the extra stipulations commercial entities had to deal with as it came to loans and what the consequences can be i.e. accelerated repayment.
 
 Share price was not happy. When the value of your whole company dips below what a very conservative EBIT-multiplier value would say, it means the market is totally done with you. So, what happens next is equally unsurprising when viewed from this lens.
+
+## The Possible Offer
 
 On April 14th, Wood and Sidara announced that there is now a [non-binding possible offer](https://tools.eurolandir.com/tools/Pressreleases/GetPressRelease/?ID=7380401&lang=en-GB&companycode=uk-wg&v=). It laid out preconditions, details, how Sidara will offer liquidity, etc., but as expected, no actual commitment. Just a whole bunch of "possible", "intend", and "no certainty". The details I think are the interesting bit. Effectively, Sidara is offering to acquire Wood at £0.35 per share. As of this writing, there are 691839369 outstanding shares meaning the value in this proposal is £242.1M or approximately $319.6M. In addition, it will do a "capital injection" of $450M to restructure the business's debts or finances. However, I think this is somewhat misleading. While in employee focused communication, the CEO has focused on this big number as way of indicating that this is a good thing, the official language used is that this is a loan given under the same terms as existing debt. With that said, they could be choosing not to reveal that it'd be forgiven if the Offer were to complete or that it would be at substantially lower interest rates in the future, but to me, this makes me feel bad. Why purchase a company and affect roughly thirty thousand people and their careers when there are no tangible assets and you're just providing more debt facilities to the beleaguered firm? I simply don't understand.
 
@@ -40,5 +44,8 @@ Other tidbits I am not focusing on:
 * As said in the possible offer, if this doesn't go through, Wood will need to raise equity or do more disposals. Raising equity as a public company means diluting shares, and for whatever reason, that just seems bad. Disposals are fine, but if you're cutting off an arm to conserve blood that you are losing through your leg, are you accomplishing anything in the end?
 * In mid 2024, when Wood was entertaining offers for £2, Wood made statements like "The Board carefully considered the Proposal, together with its financial advisers, and concluded that it fundamentally undervalued Wood and its future prospects" [like here](https://tools.eurolandir.com/tools/Pressreleases/GetPressRelease/?ID=4515540&lang=en-GB&companycode=uk-wg&v=).
 * The role of the CEO/CFO in getting to this point. I will not belabor the point, but if you were offered to take the helm of a struggling company, would you not invest your attention into the parts that are struggling?
+* Insolvency and the resulting bankruptcy if a waiver extension is not secured in a timely way.
+* How a Ch. 11 bankruptcy could be better than this sale
+* Morale of the staff with all of these events ongoing.
 
 More to come, I am sure.
