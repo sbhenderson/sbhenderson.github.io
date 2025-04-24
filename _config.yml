@@ -21,7 +21,7 @@
 title: sbhenderson blog
 email: scott@henderson.engineering
 author: sbhenderson
-description: blog of random topics I find interesting
+# description: blog of random topics I find interesting
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  sbhenderson

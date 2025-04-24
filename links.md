@@ -20,13 +20,30 @@ These are links to other blogs, channels, software, or sites that I have found i
 
 ## Software
 
+### Paid Services
+
+- [GitHub Copilot](https://github.com/features/copilot) - at least for the languages and IDEs/editors I use, this seems pretty solid without paying for the $200/mo offerings
+- [Kagi](https://kagi.com) - solid search replacement and, of course, no sponsored or ad-infused listings. Very handy!
+- [Monarch Money](https://www.monarchmoney.com/) - solid budgeting and finance dashboarding app
+- [GeForce Now](https://www.nvidia.com/en-us/geforce-now/) - avoid buying a GPU when you can rent a GPU
+
+### Paid Software
+
 - [Pushover](https://pushover.net/) - creates an abstraction for you to send notifications to your personal devices
 - [MobaXterm](https://mobaxterm.mobatek.net/) - pretty powerful multi-session remote manager.
+- [Beyond Compare](https://www.scootersoftware.com/download) - solid diff/merge capability with continual improvements
+- [Xyplorer](https://www.xyplorer.com/) - very different and unique way of approaching file exploration from the built-in Windows one. I thought this was most useful in the post-Clover but pre-Windows 11 23H2 tabbed experience.
+- [DMDE](https://dmde.com/) - software is exceptional at helping recover data from failing (or failed) hard drives
+- [IsoBuster](https://www.isobuster.com/) - software was invaluable for recovering home movies from DVDs that the person who was transferring from VHS did not properly finalize
+
+### Free Software
+
 - [ASCIIFlow](https://asciiflow.com/#/) - nice way to have imageless diagrams
 - [pgloader](https://github.com/dimitri/pgloader) - great way to transfer data and handle data type changes to PostgreSQL.
 - [draw.io](https://www.drawio.com/) - nice alternative to Visio for diagramming needs.
 - [Penpot](https://penpot.app/) - handy design and mockup tool comparable to Figma and similar
 - [SourceTree](https://www.sourcetreeapp.com) - regardless of your opinion of Git UIs, sometimes, it's easier to visualize a graph than read `git log`. For me, you still need a grasp of the underlying commands, but it tremendously helps with getting the right arguments 99% of the time.
+- [Bitwarden](https://bitwarden.com/) - password managers are a controversial topic it seems, but Bitwarden seems quite reasonable
 
 ## Miscellaneous
 
