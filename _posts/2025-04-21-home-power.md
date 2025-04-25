@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Home Power Optimization Part 1"
-tags: home energy
+tags: home energy development
 ---
 ## Background
 
