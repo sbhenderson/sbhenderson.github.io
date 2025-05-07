@@ -11,12 +11,14 @@ These are links to other blogs, channels, software, or sites that I have found i
 - [Bartosz Ciechanowski](https://ciechanow.ski/) - absolutely incredible animations and detailed information about various natural phenomena.
 - [Bits about Money](https://www.bitsaboutmoney.com/archive/) - really enjoyed the posts about [gift cards](https://www.bitsaboutmoney.com/archive/more-than-you-want-to-know-about-gift-cards/) and [BNPL](https://www.bitsaboutmoney.com/archive/buy-now-pay-later/) but there are many excellent ones.
 - [Raymond Chen/The Old New Thing](https://devblogs.microsoft.com/oldnewthing/) - Raymond is a prolific writer and has some really in-depth articles into the nature of software or Windows.
+- [In the Pipeline](https://www.science.org/blogs/pipeline) - There are some real gold nuggets in there especially the `Things I Won't Work With` series.
 
 ## YouTube
 
 - [Jeff Geerling](https://www.youtube.com/@JeffGeerling) - has unique videos in the tech space and also has a [website](https://www.jeffgeerling.com/).
 - [Steve Mould](https://www.youtube.com/channel/UCEIwxahdLz7bap-VDs9h35A) - fascinating videos examining various natural phenomena.
 - [Practical Engineering (Grady Hillhouse)](https://www.youtube.com/@PracticalEngineeringChannel) - great videos focusing on the very practical world of infrastructure around us. I really enjoyed details about projects that you may not have heard of otherwise including the New Harbor Bridge Project in Corpus Christi and the Washington Bridge in Rhode Island.
+- [NileRed](https://www.youtube.com/nilered) - totally interesting perspective as someone from a chemistry-adjacent field.
 
 ## Software
 
