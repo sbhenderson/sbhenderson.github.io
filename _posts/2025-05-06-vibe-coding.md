@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Vibe Coding In Practice"
-tags: wood corporate
+tags: ai development
 ---
 Without rehashing what everyone knows, vibe coding is an interesting "feeling" in the industry. It neglects certain complexities with software and its development while seemingly having sufficient competence to get real work done.
 
