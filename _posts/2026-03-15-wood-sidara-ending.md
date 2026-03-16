@@ -3,7 +3,7 @@ layout: post
 title:  "Wood & Sidara Ending"
 tags: wood corporate
 ---
-[Last time I wrote on this topic]({% post_url 2026-04-22-wood-sidara %}), things were seeming a little sketch but they were moving along. The tl;dr of this whole thing is that Wood Group is now, as of 2026-03-11, a fully owned subsidiary of Sidara. For transparency, as of this writing, I am still employed at Wood.
+[Last time I wrote on this topic]({% post_url 2025-04-22-wood-sidara %}), things were seeming a little sketch but they were moving along. The tl;dr of this whole thing is that Wood Group is now, as of 2026-03-11, a fully owned subsidiary of Sidara. For transparency, as of this writing, I am still employed at Wood.
 
 Things that happened after 2025-04-22 not being in order:
 
