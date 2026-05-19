@@ -24,10 +24,11 @@ These are links to other blogs, channels, software, or sites that I have found i
 
 ### Paid Services
 
-- [GitHub Copilot](https://github.com/features/copilot) - at least for the languages and IDEs/editors I use, this seems pretty solid without paying for the $200/mo offerings
+- [GitHub Copilot Pro+](https://github.com/features/copilot) - at least for the languages and IDEs/editors I use, this seems pretty solid without paying for the $200/mo offerings. With that, I did move up to the Pro+ tier in May 2026 so I could get access to the bigger models. Microsoft does seem to investing a lot of time and attention into this; whether you feel AI destroying the craft you loved should be supported or not is unfortunately different. Still, the better option now is probably OpenCode + OpenRouter.
 - [Kagi](https://kagi.com) - solid search replacement and, of course, no sponsored or ad-infused listings. Very handy!
 - [Monarch Money](https://www.monarchmoney.com/) - solid budgeting and finance dashboarding app
 - [GeForce Now](https://www.nvidia.com/en-us/geforce-now/) - avoid buying a GPU when you can rent a GPU
+- [Private Internet Access](https://www.privateinternetaccess.com/) - love it, hate it, it does the job for a reasonable price.
 
 ### Paid Software
 
@@ -45,7 +46,31 @@ These are links to other blogs, channels, software, or sites that I have found i
 - [draw.io](https://www.drawio.com/) - nice alternative to Visio for diagramming needs.
 - [Penpot](https://penpot.app/) - handy design and mockup tool comparable to Figma and similar
 - [SourceTree](https://www.sourcetreeapp.com) - regardless of your opinion of Git UIs, sometimes, it's easier to visualize a graph than read `git log`. For me, you still need a grasp of the underlying commands, but it tremendously helps with getting the right arguments 99% of the time.
-- [Bitwarden](https://bitwarden.com/) - password managers are a controversial topic it seems, but Bitwarden seems quite reasonable
+- [Bitwarden](https://bitwarden.com/) - password managers are a controversial topic it seems, but Bitwarden seems quite reasonable. New management seems to be aiming to [enshittify it](https://www.fastcompany.com/91542655/bitwarden-scrubs-always-free-and-inclusion-values-from-its-website-as-longtime-execs-step-down)...
+
+### Homelab Software
+
+- [Home Assistant](https://www.home-assistant.io/)
+- [Plex](https://plex.tv/)
+- [Tautulli](https://tautulli.com/)
+- [Portainer OSS](https://www.portainer.io/)
+- [Binhex DelugeVPN](https://github.com/binhex/arch-delugevpn)
+- [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)
+- [DuckDNS](https://www.duckdns.org/) [linuxserver container](https://docs.linuxserver.io/images/docker-duckdns/)
+- [Scrypted](https://www.scrypted.app/)
+- [Rust Desk Relay/Server](https://rustdesk.com/)
+- [Tailscale Docker Node](https://tailscale.com/)
+- [Traefik reverse proxy with Cloudflare Wildcard DNS](https://doc.traefik.io/traefik/)
+- [Heimdall](https://heimdall.site/)
+- [OWASP Modsecurity WAF for use with Traefik](https://hub.docker.com/r/owasp/modsecurity-crs/)
+- [Anubis (soon)](https://anubis.techaro.lol/)
+- [Obsidian](https://obsidian.md/) [client-app](https://docs.linuxserver.io/images/docker-obsidian/)
+- [Obsidian livesync](https://github.com/vrtmrz/obsidian-livesync) [using CouchDB](https://couchdb.apache.org/)
+
+## AI Stuff
+
+- [Obra Superpowers](https://github.com/obra/superpowers) - seems like others have found a lot of value. I find it to be a little weird at times, but I haven't done enough testing to verify either way.
+- [Open Design](https://github.com/nexu-io/open-design) - Haven't used it until the skills become consumable via Copilot more easily, but it seems promising.
 
 ## Miscellaneous
 
