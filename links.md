@@ -70,7 +70,10 @@ These are links to other blogs, channels, software, or sites that I have found i
 ## AI Stuff
 
 - [Obra Superpowers](https://github.com/obra/superpowers) - seems like others have found a lot of value. I find it to be a little weird at times, but I haven't done enough testing to verify either way.
+- [Anvil](https://burkeholland.github.io/anvil/) - I'm giving it a shot right now
 - [Open Design](https://github.com/nexu-io/open-design) - Haven't used it until the skills become consumable via Copilot more easily, but it seems promising.
+
+There really seems to be so many, so quickly...
 
 ## Miscellaneous
 
